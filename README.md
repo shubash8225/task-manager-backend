@@ -43,7 +43,7 @@ This repository contains the Django backend for the Task Manager WebApp. This ba
 
    The API will be available at `http://localhost:8000`.
 
-## Default Superuser.
+## Default Superuser
 You can use this user to log into the System where I already have some tasks setup.
 
 **Username:** Bala
