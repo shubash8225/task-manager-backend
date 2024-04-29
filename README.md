@@ -2,6 +2,9 @@
 
 This repository contains the Django backend for the Task Manager WebApp. This backend provides RESTful APIs for managing tasks.
 
+## Prerequisites
+You will need to have the latest version of Python installed.
+
 ## Setup
 
 1. **Clone the repository:**
