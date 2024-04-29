@@ -7,7 +7,7 @@ This repository contains the Django backend for the Task Manager WebApp. This ba
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/task-manager-backend.git
+   git clone https://github.com/shubash8225/task-manager-backend.git
    ```
 
 2. **Install dependencies:**
